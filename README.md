@@ -1,4 +1,6 @@
 # Discord-GPTBot
+**This Does Not Work**
+
 Making a discord bot with GPT-4o.
 
 run: `python3 -m venv bot-env` in your custom directory to set up the environment
